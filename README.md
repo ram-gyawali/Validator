@@ -1,6 +1,6 @@
 # Validator **v0.1.0**
 
-This very small library is based on only in PHP language. This is intended for only small projects.
+This very small library is based on only in PHP language. Best usage for small requirements because of simple, small size and logic
 
 ## Usage
 
